@@ -1,14 +1,16 @@
 ## Unit Setup
-type in command: un > enter > Drwing units > type: inches > Precision: 0.00 > ok
+type in command: un > enter > Drawing units > type: inches > Precision: 0.00 > ok
 
 ## Plot Area Setup
-type in commad: limit > enter >Lower corner: 0,0 > enter > upper corner 100',100 > enter
+type in command: limit > enter >Lower corner: 0,0 > enter > upper corner 100',100' > enter
+
+##Use foot and inch sign when input data
 
 ## ZOOM
-- Zoom All: to bring the whole scetch in editable scale in front screen > Double click on the mouse wheel
+- Zoom All: to bring the whole sketch in editable scale in front screen > Double click on the mouse wheel
 - Zoom in - out: scroll mouse wheel
 
-## UCS Icon: set at fixed point
+## UCS Icon: set at a fixed point
 Right Click on ucs icon > settings > origin
 
 ## Mendatory Toolbar on Workspace
@@ -50,7 +52,7 @@ You can also create a custom workspace that includes your preferred toolbars:
     Name your workspace and save it for future use.
 
 ## Option: some settings 
-Display > courser size 
+Display > cursor size 
  - tick size
 
 ## Function Keys Functions
